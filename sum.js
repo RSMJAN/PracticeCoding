@@ -2,7 +2,7 @@ getName();
 console.log(x);
 
 var x = 3;
-
+let a = 9;
 
 console.log(x);
 console.log(getName);
